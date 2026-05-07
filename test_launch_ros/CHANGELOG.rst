@@ -2,7 +2,7 @@
 Changelog for package test_launch_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.29.8 (2026-04-30)
+0.30.0 (2026-05-07)
 -------------------
 * Add tests for new component container refactor (`#536 <https://github.com/ros2/launch_ros/issues/536>`_)
 * Contributors: Skyler Medeiros
